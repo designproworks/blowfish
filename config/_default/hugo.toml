@@ -20,7 +20,7 @@ enableEmoji = true
 googleAnalytics = "G-D8DTH23BFH"
 
 [imaging]
-  anchor = 'Center'
+  anchor = 'Center'/
 
 [taxonomies]
   tag = "tags"
